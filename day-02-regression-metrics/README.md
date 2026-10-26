@@ -4,7 +4,7 @@
 
 Day 1 predicted a label (which iris species). Today I predicted a number: how much electricity a day uses, in kWh. The data is a simulated dataset of 500 days with 3 features: operating hours, device count and average temperature.
 
-Notebook: [Regression_EnergyConsumption.ipynb](Regression_EnergyConsumption.ipynb)
+Notebook: [Power_Regression.ipynb](Power_Regression.ipynb)
 
 ## What I did
 
