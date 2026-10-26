@@ -1,6 +1,6 @@
 # Day 02 · Regression and evaluation metrics
 
-▶ Recap video: YouTube Short (link coming soon)
+▶ Recap video: [YouTube Short](https://youtube.com/shorts/AazKTwSB940)
 
 Day 1 predicted a label (which iris species). Today I predicted a number: how much electricity a day uses, in kWh. The data is a simulated dataset of 500 days with 3 features: operating hours, device count and average temperature.
 
